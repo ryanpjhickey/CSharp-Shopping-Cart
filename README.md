@@ -12,7 +12,7 @@
 
 ## Description
 
-This is a simple shopping cart app build with C# and ASP.Net.
+This is a simple shopping cart app built with C# and ASP.Net.
 
 ---
 
